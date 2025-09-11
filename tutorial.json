@@ -21,7 +21,7 @@
         "folder": "tutorial",
         "input2": "sample2.csv",
         "input1": "sample1.csv",
-        "output": "sum.csv"
+        "output": "sum_laura.csv"
       },
       "InvokeNext": []
     }
