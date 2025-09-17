@@ -171,6 +171,7 @@ def check_dag(faasr_payload):
 
     print(ranks)
     print(adj_graph)
+    print(faasr_payload["ActionList"])
 
     # Find initial function in the graph
     start = False
