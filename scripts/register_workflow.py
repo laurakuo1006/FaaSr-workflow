@@ -170,6 +170,7 @@ def check_dag(faasr_payload):
     visited = set()
 
     print(ranks)
+    print(adj_graph)
 
     # Find initial function in the graph
     start = False
