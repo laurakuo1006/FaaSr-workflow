@@ -34,10 +34,10 @@
   "FunctionInvoke": "start",
   "DefaultDataStore": "My_S3_Bucket",
   "FunctionGitRepo": {
-    "clean_data": "laurakuo1006/phd_stipend"
+    "clean_data": "laurakuo1006/FaaSr-workflow"
   },
   "LoggingDataStore": "My_S3_Bucket",
   "FaaSrLog": "FaaSrLog",
   "InvocationID": "",
-  "WorkflowName": "workflow"
+  "WorkflowName": "analyze_stipend"
 }
