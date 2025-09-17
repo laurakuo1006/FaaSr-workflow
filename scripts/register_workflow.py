@@ -169,9 +169,9 @@ def check_dag(faasr_payload):
     # Initialize empty visited set
     visited = set()
 
-    print(ranks)
-    print(adj_graph)
-    print(faasr_payload["ActionList"])
+    print("RANKS: ", ranks)
+    print("ADJ GRAPH: ", adj_graph)
+    print("ACTION LIST: ", faasr_payload["ActionList"])
 
     # Find initial function in the graph
     start = False
