@@ -17,7 +17,7 @@
       "FaaSType": "GitHubActions",
       "UserName": "laurakuo1006",
       "UseSecretStore": true,
-      "ActionRepoName": "phd_stipend",
+      "ActionRepoName": "FaaSr-workflow",
       "Branch": "main"
     }
   },
