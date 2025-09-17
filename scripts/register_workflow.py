@@ -169,6 +169,8 @@ def check_dag(faasr_payload):
     # Initialize empty visited set
     visited = set()
 
+    print(ranks)
+
     # Find initial function in the graph
     start = False
     for func in faasr_payload["ActionList"]:
