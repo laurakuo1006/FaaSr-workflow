@@ -3,8 +3,8 @@
     "start": {
       "Arguments": {
         "folder": "faasr_test",
-        "input": "phd_stipend.csv"
-        "output1": "phd_stipend_cleaned.csv",
+        "input": "phd_stipend.csv",
+        "output1": "phd_stipend_cleaned.csv"
       },
       "InvokeNext": [],
       "FaaSServer": "My_GitHub_Account",
